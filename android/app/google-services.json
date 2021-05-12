@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443424414294",
+    "project_id": "fbbkhkdj",
+    "storage_bucket": "fbbkhkdj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443424414294:android:a645ba744d4cbb7f66b9f7",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443424414294-57qnjncpf5lppfnf66upid7vnumkog7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrAAzT-d5aaypfWXq9UmfJX5TX_f1Y-J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443424414294-57qnjncpf5lppfnf66upid7vnumkog7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
